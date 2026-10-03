@@ -1,0 +1,2 @@
+# pip_flask_and_cors
+没有安装flask的人也可以运行的flask
