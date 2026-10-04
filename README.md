@@ -20,8 +20,8 @@ if __name__ == '__main__':
     pfac.run(app) #app.run()并且打开页面
 '''
 run()的参数：(run_app,host='127.0.0.1', port=5000, debug=False, load_dotenv=True,
-          use_reloader=None, use_debugger=None, use_evalex=True, threaded=False,
-          processes=1, passthrough_errors=False, ssl_context=None, extra_files=None,
-          reloader_interval=1,reloader_type='auto')
+            use_reloader=None, use_debugger=None, use_evalex=True, threaded=False,
+            processes=1, passthrough_errors=False, ssl_context=None, extra_files=None,
+            reloader_interval=1,reloader_type='auto')
 '''
 ```
