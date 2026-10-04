@@ -1,6 +1,6 @@
 **pip_flask_and_cors**
 ---
-这个库可以帮你下载flask和flask_cors
+这个库可以帮你自动下载flask和flask_cors，你导入这个库时候就会检测你有没有flask和flask_cors，如果你没有，他就会帮你安装。
 
 ---
 要求：  
